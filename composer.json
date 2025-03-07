@@ -1,12 +1,12 @@
 {
-    "name": "reinbier/laravel-unique-with",
+    "name": "endo64/laravel-unique-with",
     "description": "Unique With Validator rule for Laravel",
     "keywords": [
         "Reinbier",
         "laravel",
         "laravel-unique-with"
     ],
-    "homepage": "https://github.com/reinbier/laravel-unique-with",
+    "homepage": "https://github.com/endo64/laravel-unique-with",
     "license": "MIT",
     "authors": [
         {
